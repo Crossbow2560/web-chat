@@ -1,0 +1,22 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+}
+#login{
+    align-items:center;
+    background-color:black;
+    justify-content: center;
+    display:flex;
+    flex-direction:column;
+    min-height:200px;
+    min-width:150px;
+    border-radius:5px;
+}
+#name{
+    color:rgb(106, 106, 220);
+}
+#submit{
+    background-color:darkblue;
+    color:white;
+    border:none;
+    border-radius:5px; 
+}
