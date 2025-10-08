@@ -1,0 +1,32 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+    background-color: #161b22;
+}
+
+#message{
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 10px;
+    display: flex;
+    gap: 5px;
+    padding: 10px;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: #161b22;
+}
+
+#username{
+    font-weight: bolder;
+    font-size: 16px;
+    display: flex;
+    box-sizing: border-box;
+    color: #79c0ff;
+}
+
+#text{
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    box-sizing: border-box;
+    color: white;
+}
